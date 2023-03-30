@@ -1,4 +1,0 @@
-# base-circuit
-Commit 1
-Date: 2023-01-25T04:47:14Z
-Initial commit
