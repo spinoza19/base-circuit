@@ -1,4 +1,0 @@
-# base-circuit
-Commit 7
-Date: 2024-10-30T02:07:06Z
-Improve error handling
